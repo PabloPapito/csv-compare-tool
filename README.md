@@ -33,7 +33,7 @@
    Ensure that your CSV files include the key column you want to use for matching (e.g., `customer_id`).
 
 2. **Configure the Script:**  
-   Open the main script (e.g., `compare_csv.py`) and edit the file paths and specify the key column in the main section. For example:
+   Open the main script (`lazyDev.py`) and edit the file paths and specify the key column in the main section. For example:
 
    ```python
    if __name__ == "__main__":
